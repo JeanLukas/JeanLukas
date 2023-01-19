@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e90000&height=180&section=header&text=Jean Lukas Andrade&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e90000&height=180&section=header&text=Jean Lukas Andrade&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e60000&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+IS+JEAN+LUKAS+ANDRADE;I'm+20+years+old;I+live+in+Brazil,+RS;Be+Welcome!+:D)](https://git.io/typing-svg)
 
